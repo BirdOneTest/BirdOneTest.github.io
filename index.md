@@ -1,9 +1,3 @@
-<style>
-  body {
-    font-family: 'Trebuchet MS', sans-serif;
-  }
-</style>
-
 # Test Website
 
 Hello guys, welcome to my website
